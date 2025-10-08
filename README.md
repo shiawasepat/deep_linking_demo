@@ -2,15 +2,17 @@
 
 A new Flutter project.
 
-## Getting Started
+**Concept Check:**
+What is the difference between a route inside Flutter and a deep link at the Android level?
 
-This project is a starting point for a Flutter application.
+Why does Android need an intent filter?
 
-A few resources to get you started if this is your first Flutter project:
+**Technical Understanding:**
+Explain the role of the app_links package.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+What happens if a deep link is opened while the app is already running?
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Debugging Insight:**
+Suppose your adb command opens the app but it doesn’t navigate to the detail page.
+
+What part of your code or manifest would you check first, and why?
